@@ -1,0 +1,27 @@
+Business Source License 1.1
+License text copyright (c) 2017 MariaDB Corporation Ab, All Rights Reserved.
+“Business Source License” is a trademark of MariaDB Corporation Ab.
+
+Parameters
+
+Licensor:           Project-Crassus Syndicate
+Licensed Work:      The Project-Crassus mobile platform and core source files
+Additional Use Grant: You may make use of the Licensed Work strictly for evaluation, testing, and non-production use. For small independent businesses utilizing our white-label ecosystem, production use is permitted provided it complies with the official community network guidelines. Commercial reselling or wrapping of this work as a competitive managed platform is strictly prohibited.
+Change Date:        Four years from the date of initial publication of each version.
+Change License:     Apache License, Version 2.0
+
+Terms of the Business Source License
+
+1. The Licensor hereby grants you the right to copy, modify, create derivative works, redistribute, and make non-production use of the Licensed Work.
+
+2. You may make production use of the Licensed Work only in compliance with the Additional Use Grant specified above. Any production use of the Licensed Work not explicitly permitted by the Additional Use Grant requires a separate commercial license from the Licensor.
+
+3. Effective on the Change Date, the Licensor hereby grants you a permanent, worldwide, royalty-free, non-exclusive, irrevocable license to use, copy, modify, create derivative works, distribute, and sublicense the Licensed Work under the Change License.
+
+4. To the extent that any provision of the Change License conflicts with this Business Source License, the Change License shall govern after the Change Date.
+
+5. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the work.
+
+6. DISCLAIMER OF WARRANTY. THE LICENSED WORK IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE LICENSED WORK OR THE USE OR OTHER DEALINGS IN THE LICENSED WORK.
+
+7. LIMITATION OF LIABILITY. UNDER NO CIRCUMSTANCES AND UNDER NO LEGAL THEORY, WHETHER TORT (INCLUDING NEGLIGENCE), CONTRACT, OR OTHERWISE, SHALL THE LICENSOR BE LIABLE TO YOU FOR ANY INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES OF ANY CHARACTER INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF GOODWILL, WORK STOPPAGE, COMPUTER FAILURE OR MALFUNCTION, OR ANY AND ALL OTHER COMMERCIAL DAMAGES OR LOSSES, EVEN IF THE LICENSOR HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGES.
